@@ -1,4 +1,4 @@
-# my_cats
+# CatsApp
 
 A new Flutter project.
 
